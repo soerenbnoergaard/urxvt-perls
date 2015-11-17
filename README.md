@@ -24,5 +24,5 @@ To be able to see which tab is active, I can recommend following settings:
 
 ## Resources and thanks to
 
-- [clchiou](https://github.com/clchiou/urxvt-config) for adding support for opening tabs with Ctrl-Shift-T.
+- [clchiou](https://github.com/clchiou/urxvt-config) for adding support for opening tabs with Ctrl-Shift-T and changing tab with Alt-1, Alt-2, Alt-3, ...
 - [df7cb](https://www.df7cb.de/blog/2014/New_urxvt_tab_in_current_directory.html) for a patch that makes new tabs open in the current directory.
