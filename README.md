@@ -20,3 +20,9 @@ To be able to see which tab is active, I can recommend following settings:
 * Alt-1, Alt-2, ... can now be used to change tab, like most terminals.
 * Ctrl-Shift-t creates a new tab.
 * Removed the "NEW" button.
+* New tabs open in the same directory as the current (does not work with urxvtd and urxvtc).
+
+## Resources and thanks to
+
+- [clchiou](https://github.com/clchiou/urxvt-config) for adding support for opening tabs with Ctrl-Shift-T.
+- [df7cb](https://www.df7cb.de/blog/2014/New_urxvt_tab_in_current_directory.html) for a patch that makes new tabs open in the current directory.
