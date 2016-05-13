@@ -48,7 +48,7 @@ sub refresh {
 
    substr $text, 0, 1, "|";
    # @$rend[0 .. 5] = ($self->{rs_tab}) x 6;
-   push @ofs, [0, 6, sub { $_[0]->new_tab }];
+   # push @ofs, [0, 6, sub { $_[0]->new_tab }];
 
    my $ofs = 1;
    my $idx = 0;
